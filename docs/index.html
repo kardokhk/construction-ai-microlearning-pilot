@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Practical AI in construction: pilot film</title>
+<meta name="description" content="Pilot micro-learning film for a construction-sector series on practical AI: From voice note to site diary.">
+<style>
+:root { --navy:#0e2433; --amber:#f5a800; --teal:#12968c; --ink:#181e24; --slate:#5b6770; --paper:#f4f3f0; }
+* { box-sizing:border-box; }
+body { margin:0; font:17px/1.55 "Helvetica Neue", Helvetica, Arial, sans-serif; color:var(--ink); background:var(--paper); }
+header { background:var(--navy); color:#fff; padding:40px 16px 28px; }
+.wrap { max-width:1100px; margin:0 auto; padding:0 16px; }
+.kicker { color:var(--amber); font-weight:700; letter-spacing:.06em; font-size:14px; text-transform:uppercase; }
+h1 { font-size:clamp(28px,4.4vw,46px); line-height:1.12; margin:8px 0 10px; }
+header p { color:#d5dce2; max-width:760px; margin:0; }
+video { width:100%; display:block; background:#000; border-radius:10px; margin:28px 0 8px; }
+.note { color:var(--slate); font-size:14px; }
+h2 { font-size:26px; margin:42px 0 10px; color:var(--navy); border-left:6px solid var(--amber); padding-left:12px; }
+.grid { display:grid; grid-template-columns:repeat(auto-fit,minmax(260px,1fr)); gap:16px; }
+.card { background:#fff; border-radius:10px; padding:18px 20px; border:1px solid #e1e1dc; }
+.card h3 { margin:0 0 6px; font-size:18px; color:var(--navy); }
+.card p { margin:0; }
+img.full { width:100%; display:block; border-radius:10px; border:1px solid #e1e1dc; margin-top:12px; }
+footer { margin:48px 0 40px; color:var(--slate); font-size:14px; }
+a { color:var(--teal); }
+</style>
+</head>
+<body>
+<header>
+  <div class="wrap">
+    <div class="kicker">Practical AI in construction &middot; Film 04 of 11 &middot; pilot</div>
+    <h1>From voice note to site diary</h1>
+    <p>A finished pilot for a series of micro-learning films on practical uses of AI in construction: a scenario on a realistic site, a screen demonstration built from real tool output, a knowledge check and a recap. Captions are burned in.</p>
+  </div>
+</header>
+<main class="wrap">
+  <video controls preload="metadata" poster="poster.jpg">
+    <source src="pilot_1080p.mp4" type="video/mp4">
+  </video>
+  <p class="note">3 min 25 s, captions burned in; caption file: <a href="pilot.en.vtt">WebVTT</a>. People, places and companies are fictional. Footage, narration and graphics were produced with generative AI and checked for accuracy before release.</p>
+
+  <h2>What the pilot shows</h2>
+  <div class="grid">
+    <div class="card"><h3>A site and a recurring character</h3><p>Dan, a site manager, is the same person in every scene. Cutaways follow his words: the crane in high wind, the bricklayers, the ready-mix lorry, the slab pour.</p></div>
+    <div class="card"><h3>Real tool output on screen</h3><p>The diary draft is the unedited output of an open-weight language model given Dan's transcript. It misread the crane times, so the film teaches the review step with a real error.</p></div>
+    <div class="card"><h3>Built for learning</h3><p>Outcomes up front, five short chapters with a tracker, a knowledge check with a pause to think, a recap, and captions in SRT and WebVTT.</p></div>
+    <div class="card"><h3>Checked for accuracy and safety</h3><p>Every generated still and clip is screened for missing PPE, unsafe acts, distorted people and garbled text, then reviewed against the storyboard.</p></div>
+  </div>
+
+  <h2>Accuracy and safety checks</h2>
+  <img class="full" src="qa_board.jpg" alt="Board of rejected and approved shots from the pilot, with the reason for each decision">
+
+  <h2>One series design for eleven films</h2>
+  <img class="full" src="lookbook.jpg" alt="Title cards for the eleven proposed films in the series design">
+
+  <h2>How each film is made</h2>
+  <img class="full" src="workflow.png" alt="Workflow from script to delivery with two sign-off points and automatic checks">
+
+  <h2>Earlier generative video work</h2>
+  <video controls preload="metadata" poster="earlier_poster.jpg"><source src="earlier_work.mp4" type="video/mp4"></video>
+  <p class="note">More: <a href="https://kardokhk.github.io/product-visual-pipeline/">product visual pipeline demo</a>.</p>
+
+  <footer>Kardokh Kakabra &middot; PhD in Data Science, University College Cork &middot; November 2026</footer>
+</main>
+</body>
+</html>
