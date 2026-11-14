@@ -1,136 +1,136 @@
 WEBVTT
 
-00:00:03.575 --> 00:00:07.635
+00:00:03.430 --> 00:00:08.704
 It is ten past six. The site is quiet, and Dan, the site manager,
 
-00:00:07.675 --> 00:00:10.025
+00:00:08.744 --> 00:00:10.208
 still has today's diary to write.
 
-00:00:10.950 --> 00:00:14.335
+00:00:11.088 --> 00:00:14.480
 Most site diaries are written like this: at the end of a long day,
 
-00:00:14.375 --> 00:00:16.150
+00:00:14.520 --> 00:00:15.865
 from memory, in a hurry.
 
-00:00:16.975 --> 00:00:21.560
+00:00:16.645 --> 00:00:20.598
 Yet the diary is often the record that matters most when a delay or a variation is
 
-00:00:21.600 --> 00:00:23.575
+00:00:20.638 --> 00:00:21.722
 disputed months later.
 
-00:00:24.700 --> 00:00:28.485
+00:00:22.802 --> 00:00:26.792
 In this film, you will see how an AI tool can turn a short voice note into a
 
-00:00:28.525 --> 00:00:33.150
+00:00:26.832 --> 00:00:30.320
 structured diary entry, and what you still need to check before you sign it.
 
-00:00:34.150 --> 00:00:37.335
+00:00:31.300 --> 00:00:34.768
 By the end, you will be able to capture the day in a voice note,
 
-00:00:37.375 --> 00:00:42.525
+00:00:34.808 --> 00:00:39.038
 review an AI draft against what you saw, and search your records in plain English.
 
-00:00:43.825 --> 00:00:47.647
-Instead of facing a blank page, Dan records as he walks the site.
+00:00:40.318 --> 00:00:44.209
+Instead of facing a blank page, Dan records a voice note out on site.
 
-00:00:47.687 --> 00:00:49.775
+00:00:45.011 --> 00:00:46.436
 One minute, in his own words.
 
-00:00:50.550 --> 00:00:55.085
+00:00:47.216 --> 00:00:51.619
 Wednesday the twelfth. Dry and bright this morning, wind picked up after lunch.
 
-00:00:55.125 --> 00:00:59.223
+00:00:52.400 --> 00:00:57.003
 Crane stood down from one forty to ten past three. Fourteen on site:
 
-00:00:59.263 --> 00:01:03.060
+00:00:57.043 --> 00:01:01.066
 six bricklayers, four groundworkers, two scaffolders, me and Sarah.
 
-00:01:03.100 --> 00:01:06.160
+00:01:01.867 --> 00:01:04.689
 Ready-mix for the ground-floor slab was forty minutes late.
 
-00:01:06.200 --> 00:01:10.372
+00:01:05.470 --> 00:01:09.413
 Pour finished about four. Scaffold inspection done on the north side.
 
-00:01:10.412 --> 00:01:13.925
+00:01:10.173 --> 00:01:13.115
 Revised window drawings for block B came in by email.
 
-00:01:15.025 --> 00:01:19.285
+00:01:14.195 --> 00:01:18.262
 The tool transcribes the note and sorts it into the company's diary template:
 
-00:01:19.325 --> 00:01:23.060
+00:01:18.302 --> 00:01:23.652
 weather, labour, plant, deliveries, progress, health and safety,
 
-00:01:23.100 --> 00:01:25.050
+00:01:23.692 --> 00:01:24.773
 and instructions received.
 
-00:01:25.750 --> 00:01:30.650
+00:01:25.454 --> 00:01:29.170
 The tool is told to use only what Dan said, and to add nothing he did not say.
 
-00:01:31.425 --> 00:01:36.035
+00:01:29.950 --> 00:01:34.721
 It also flags gaps. Dan mentioned the crane stand-down, but not who made the call.
 
-00:01:36.075 --> 00:01:38.625
+00:01:35.664 --> 00:01:37.428
 The tool asks, rather than guesses.
 
-00:01:39.625 --> 00:01:44.525
+00:01:38.408 --> 00:01:42.224
 Then comes the most important step. Dan reads the draft against what he saw.
 
-00:01:45.325 --> 00:01:50.285
+00:01:43.004 --> 00:01:48.072
 The draft has two errors. It misread the crane times: Dan said one forty to ten past
 
-00:01:50.325 --> 00:01:55.123
-three. And it says the slab pour was completed, when only bay one of three was poured.
+00:01:48.112 --> 00:01:52.659
+three. And it says the slab pour was completed, when only bay one of three was
 
-00:01:55.163 --> 00:01:57.750
-Dan corrects both before he signs.
+00:01:52.699 --> 00:01:55.343
+poured. Dan corrects both before he signs.
 
-00:01:58.650 --> 00:02:02.735
+00:01:56.223 --> 00:02:00.051
 The tool drafts. The site manager checks, corrects and signs.
 
-00:02:02.775 --> 00:02:07.625
+00:02:00.873 --> 00:02:05.001
 The signed entry is the record, and the responsibility stays with the person who signs it.
 
-00:02:08.925 --> 00:02:12.925
+00:02:06.281 --> 00:02:09.577
 Over weeks and months, the diaries become a record you can search.
 
-00:02:13.750 --> 00:02:17.535
-Dan asks how many hours the crane was stood down for wind in March.
+00:02:10.357 --> 00:02:14.665
+Dan asks, in plain English, how many hours the crane was stood down for wind in
 
-00:02:17.575 --> 00:02:22.350
-The answer links to each diary entry it came from, so every number can be checked.
+00:02:14.705 --> 00:02:20.356
+March. The answer links to each diary entry it came from, so every number can be checked.
 
-00:02:23.625 --> 00:02:26.950
+00:02:21.636 --> 00:02:24.211
 Before you start, agree three things with your company.
 
-00:02:27.775 --> 00:02:32.875
+00:02:24.991 --> 00:02:29.288
 Use an approved tool, so recordings and photos stay within your company's systems.
 
-00:02:33.700 --> 00:02:39.925
+00:02:30.068 --> 00:02:35.265
 Leave out personal details you do not need. A voice note that identifies people is personal data.
 
-00:02:40.725 --> 00:02:46.525
+00:02:36.045 --> 00:02:40.842
 And agree the diary template first, so every entry records the same facts in the same place.
 
-00:02:47.825 --> 00:02:51.735
+00:02:42.122 --> 00:02:45.991
 A quick check. The draft records the ready-mix as forty minutes late.
 
-00:02:51.775 --> 00:02:55.850
+00:02:46.692 --> 00:02:50.260
 The delivery ticket shows it was ninety minutes late. What do you do?
 
-00:02:59.350 --> 00:03:02.510
+00:02:53.740 --> 00:02:56.630
 Correct the entry to match the ticket, and attach the ticket.
 
-00:03:02.550 --> 00:03:04.800
+00:02:57.373 --> 00:02:58.657
 You sign what the evidence shows.
 
-00:03:06.125 --> 00:03:10.360
+00:02:59.937 --> 00:03:04.550
 To recap: record the day while it is fresh, let the tool draft the entry,
 
-00:03:10.400 --> 00:03:12.900
+00:03:04.590 --> 00:03:06.155
 and check every fact before you sign.
 
-00:03:14.025 --> 00:03:18.785
+00:03:07.235 --> 00:03:12.068
 Next in the series: using AI to draft risk assessments and method statements,
 
-00:03:18.825 --> 00:03:21.325
+00:03:12.108 --> 00:03:13.613
 and where the competent person comes in.
